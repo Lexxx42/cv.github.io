@@ -1,2 +1,2 @@
 # cv.github.io
-Brief cv
+Brief cv in English
