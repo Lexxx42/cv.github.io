@@ -28,6 +28,13 @@ $skills = [
 ];
 $work_experience = [
   [
+    'position' => 'QA engineer',
+    'company' => 'startup IT Special Company',
+    'date_start' => 'Feb 2023',
+    'date_end' => 'Current',
+    'info' => 'Web development.',
+  ],
+  [
     'position' => 'Beta Tester',
     'company' => 'startup WISH',
     'date_start' => 'Dec 2022',
