@@ -29,10 +29,17 @@ $skills = [
 $work_experience = [
   [
     'position' => 'QA engineer',
-    'company' => 'startup IT Special Company',
+    'company' => 'Eventforme',
     'date_start' => 'Feb 2023',
     'date_end' => 'Current',
-    'info' => 'Web development.',
+    'info' => 'Service for organizing a wedding in Moscow.',
+  ],
+  [
+    'position' => 'QA engineer',
+    'company' => 'internship IT Special Company',
+    'date_start' => 'Feb 2023',
+    'date_end' => 'Current',
+    'info' => 'Platform for collaboration between students for project creation.',
   ],
   [
     'position' => 'Beta Tester',
