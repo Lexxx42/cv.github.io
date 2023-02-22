@@ -52,7 +52,7 @@ $work_experience = [
     'position' => 'QA engineer',
     'company' => 'pet-project JobAssistant',
     'date_start' => 'Nov 2022',
-    'date_end' => 'Current',
+    'date_end' => 'Feb 2023',
     'info' => 'JobAssistant is a site aggregator of vacancies from various sources with automation of the search for relevant vacancies in the IT field.',
   ],
   [
