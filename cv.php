@@ -31,7 +31,7 @@ $work_experience = [
     'position' => 'QA engineer',
     'company' => 'Eventforme',
     'date_start' => 'Feb 2023',
-    'date_end' => 'Current',
+    'date_end' => 'Feb 2023',
     'info' => 'Service for organizing a wedding in Moscow.',
   ],
   [
