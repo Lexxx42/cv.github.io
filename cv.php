@@ -29,13 +29,6 @@ $skills = [
 $work_experience = [
   [
     'position' => 'QA engineer',
-    'company' => 'Eventforme',
-    'date_start' => 'Feb 2023',
-    'date_end' => 'Feb 2023',
-    'info' => 'Service for organizing a wedding in Moscow.',
-  ],
-  [
-    'position' => 'QA engineer',
     'company' => 'internship IT Special Company',
     'date_start' => 'Feb 2023',
     'date_end' => 'Current',
@@ -43,10 +36,17 @@ $work_experience = [
   ],
   [
     'position' => 'Beta Tester',
-    'company' => 'startup WISH',
+    'company' => 'Zultee LLC',
     'date_start' => 'Dec 2022',
     'date_end' => 'Current',
     'info' => 'WISH is a mobile application for iOS and Android, where some users can publish wishes, while others fulfill them.',
+  ],
+  [
+    'position' => 'QA engineer',
+    'company' => 'Eventforme',
+    'date_start' => 'Feb 2023',
+    'date_end' => 'Feb 2023',
+    'info' => 'Service for organizing a wedding in Moscow.',
   ],
   [
     'position' => 'QA engineer',
