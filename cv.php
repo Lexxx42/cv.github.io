@@ -7,7 +7,7 @@ $telegram = "https://t.me/Lexx_042";
 $skills = [
   [
     'name' => 'Python',
-    'percent' => 60,
+    'percent' => 80,
   ],
   [
     'name' => 'Functional testing',
@@ -15,11 +15,11 @@ $skills = [
   ],
   [
     'name' => 'Test automation',
-    'percent' => 30,
+    'percent' => 60,
   ],
   [
     'name' => 'REST API testing',
-    'percent' => 70,
+    'percent' => 75,
   ],
   [
     'name' => 'SQL',
