@@ -29,7 +29,7 @@ $skills = [
 $work_experience = [
   [
     'position' => 'QA engineer',
-    'company' => 'internship IT Special Company',
+    'company' => 'IT Special Company (internship)',
     'date_start' => 'Feb 2023',
     'date_end' => 'Current',
     'info' => 'Platform for collaboration between students for project creation.',
@@ -43,21 +43,21 @@ $work_experience = [
   ],
   [
     'position' => 'QA engineer',
-    'company' => 'Eventforme',
+    'company' => 'Eventforme (internship)',
     'date_start' => 'Feb 2023',
     'date_end' => 'Feb 2023',
     'info' => 'Service for organizing a wedding in Moscow.',
   ],
   [
     'position' => 'QA engineer',
-    'company' => 'pet-project JobAssistant',
+    'company' => 'JobAssistant (pet-project)',
     'date_start' => 'Nov 2022',
     'date_end' => 'Feb 2023',
     'info' => 'JobAssistant is a site aggregator of vacancies from various sources with automation of the search for relevant vacancies in the IT field.',
   ],
   [
     'position' => 'QA engineer and Software Developer',
-    'company' => 'pet-project convertToPDF',
+    'company' => 'convertToPDF (pet-project)',
     'date_start' => 'Aug 2022',
     'date_end' => 'Nov 2022',
     'info' => 'convertToPDF - telegram bot for converting files to PDF.',
