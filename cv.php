@@ -101,7 +101,7 @@ $work_experience = [
           <div class="w3-display-container">
             <img src="IMG_photo.png" style="width:100%" alt="Avatar">
             <div class="w3-display-bottomleft w3-container w3-text-black">
-              <h2><?php echo $name; ?></h2>
+              <h2 style="color:white"><?php echo $name; ?></h2>
             </div>
           </div>
           <div class="w3-container">
